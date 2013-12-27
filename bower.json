@@ -1,0 +1,17 @@
+{
+  "name": "get-contacts-ember",
+  "version": "0.0.1",
+  "homepage": "https://github.com/gnuwilliam/get-contacts-ember",
+  "authors": [
+    "William Oliveira <sudowilliam@gmail.com>"
+  ],
+  "description": "Simple app to get your facebook friends and search them",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
